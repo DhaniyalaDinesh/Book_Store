@@ -1,0 +1,6 @@
+[
+    { "id": 1, "title": "Book One", "author": "Author One", "price": 19.99, "image": "https://via.placeholder.com/150" },
+    { "id": 2, "title": "Book Two", "author": "Author Two", "price": 24.99, "image": "https://via.placeholder.com/150" },
+    { "id": 3, "title": "Book Three", "author": "Author Three", "price": 29.99, "image": "https://via.placeholder.com/150" }
+  ]
+  
